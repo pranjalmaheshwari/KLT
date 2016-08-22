@@ -1,2 +1,4 @@
 # KLT
-lucas kannade tracker
+Lucas Kannade Tracker
+
+This is a python implementation of lucas kannade tracker.
